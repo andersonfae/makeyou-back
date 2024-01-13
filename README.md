@@ -1,6 +1,7 @@
 # Make You - Backend
 
 Aplicação feita por https://github.com/andersonfae utilizando Nest.js e MongoDB.
+(Aplicação rodando na porta 4000)
 
 ## Pré-requisitos
 
